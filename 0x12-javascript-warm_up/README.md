@@ -1,1 +1,1 @@
-This directory contains all files for the javascript project warmup
+my readme on javascript warm up

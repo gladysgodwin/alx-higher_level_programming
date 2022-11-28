@@ -1,1 +1,1 @@
-# MORE QUERIES.
+my readme on sql more queries
